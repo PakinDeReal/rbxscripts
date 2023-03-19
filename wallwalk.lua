@@ -1,4 +1,3 @@
--- https://controlc.com/19a39f78 ControlC backup
 --[[
 local _p = game:WaitForChild("Players")
 local _plr = _p.ChildAdded:Wait()
