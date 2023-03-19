@@ -2,7 +2,7 @@ wait(5)
 
 --[[ Info ]]--
 
-local ver = "2.00"
+local ver = ""
 local scriptname = "Flip"
 
 
@@ -73,7 +73,7 @@ ca:BindAction("zeezyAirjump",zeezyAirjump,false,AirjumpKey)
 --[[ Load Message ]]--
 
 print(scriptname .. " " .. ver .. " loaded successfully")
-print("made by Zeezy#7203")
+print("made by epicgamer2954008")
 
 local notifSound = Instance.new("Sound",workspace)
 notifSound.PlaybackSpeed = 1.5
